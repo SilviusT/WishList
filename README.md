@@ -2,13 +2,15 @@
 
 <br>
 
-## Imprimanta:<br>
-	* upgrade/renew:<br>
+<h2>Imprimanta:</h2><br>
+<ul>
+	<li>upgrade/renew:</li><br>
 		<br>
-	* post-processing:<br>
+	<li>post-processing:</li><br>
 		<br>
-	* filament storing:<br>
+	<li>filament storing:</li><br>
 		<br>
+</ul>
 <br>
 ## Iqos:<br>
 	* iqos 3 duo<br>
