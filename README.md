@@ -1,6 +1,8 @@
 # Wish List
+
 <br>
-Imprimanta:<br>
+
+## Imprimanta:<br>
 	* upgrade/renew:<br>
 		<br>
 	* post-processing:<br>
@@ -8,10 +10,10 @@ Imprimanta:<br>
 	* filament storing:<br>
 		<br>
 <br>
-Iqos:<br>
+## Iqos:<br>
 	* iqos 3 duo<br>
 <br>
-Scaun birou:<br>
+## Scaun birou:<br>
 	* caracteristici dorite:<br>
 		* spatar inalt<br>
 		* spatar ajustabil<br>
@@ -21,7 +23,7 @@ Scaun birou:<br>
 		* sa fie proiectat pentru statul pe scaun mult timp (ergonomic, sa fie comod, sa nu aiba sezutul tare sau sa nu se plafoneze si sa devina tare dupa un timp relativ scurt de folosire)<br>
 		* sa nu depaseasca 60 cm latime<br>
 <br>
-Sistem audio:<br>
+## Sistem audio:<br>
 	* casti:<br>
 		*caracteristici dorite:<br>
 			* nu cauta sa fie headset (adica casti + microfon), majoritatea sunt "overpriced" si folosesc componente ieftine; un setup mult mai decent este format din casti bine + microfon separat (tot bun :) ); majoritatea microfoanelor standalone ieftine vor fi mai bune decat cele built-in din headset-uri
@@ -31,9 +33,10 @@ Sistem audio:<br>
 			* "Soundstage" cat mai bun, soundstage se refera la calitatea sunetului din punct de vedere directional, cat de precis poti auzi directia si distanta (ex.: cat de departe auzi pasii si din ce directie, daca chitaristul e in stanga sau in dreapta etc.)<br>
 	* sistem boxe + subwoofer<br>
 <br>
-Unelte:<br>
+## Unelte:<br>
 	* nivela mica<br>
 <br>
-PC:<br>
+## PC:<br>
 	* <br>
 <br>
+
