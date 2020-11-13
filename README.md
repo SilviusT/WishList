@@ -37,7 +37,7 @@
 	<ul>
 		<li>caracteristici dorite:</li>
 		<ul>
-			<li>nu cauta sa fie headset (adica casti + microfon), majoritatea sunt "overpriced" si folosesc componente ieftine; un setup mult mai decent este format din casti bine + microfon separat (tot bun :) ); majoritatea microfoanelor standalone ieftine vor fi mai bune decat cele built-in din headset-uri</li>
+			<li>nu cauta sa fie headset (adica casti + microfon), majoritatea sunt "overpriced" si folosesc componente ieftine; un setup mult mai decent este format din casti bune + microfon separat (tot bun :) ); majoritatea microfoanelor standalone ieftine vor fi mai bune decat cele built-in din headset-uri</li>
 			<li>sa fie "circumaural", adica sa acopere urechile in totalitate, sa nu apese pe ele</li>
 			<li>ideal sa nu fie izolate fonic, pentru a putea auzi daca suna telefonul sau usa sau daca vb cineva etc.<br>
 			<li>preferabil casti inchise, adica nu care au capacul/invelisul exterior stil plasa</li>
