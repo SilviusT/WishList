@@ -8,10 +8,10 @@ Imprimanta:
 	- filament storing:
 		
 
-Iqos: 
+Iqos:
 	- iqos 3 duo
 
-Scaun birou: 
+Scaun birou:
 	- caracteristici dorite:
 		- spatar inalt
 		- spatar ajustabil
