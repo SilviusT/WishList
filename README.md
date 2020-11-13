@@ -47,11 +47,6 @@
 	<li>sistem boxe + subwoofer</li>
 </ul>
 <br>
-<h2>Unelte:</h2><br>
-<ul>
-	<li>nivela mica</li>
-</ul>
-<br>
 <h2>PC:</h2><br>
 <ul>
 	<li></li>
